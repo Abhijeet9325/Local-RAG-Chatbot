@@ -1,0 +1,7 @@
+# The Story of Document Loaders in LangChain
+
+Imagine you are building a smart AI assistant that can answer questions from PDFs, notes, websites, and CSV files.
+
+One day, the AI says:
+
+"How will I read all these files? I only understand text!"

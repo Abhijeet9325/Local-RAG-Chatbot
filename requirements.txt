@@ -1,0 +1,32 @@
+# ── LLM ──────────────────────────────────────
+langchain
+langchain-core
+langchain-ollama
+langchain-community
+
+# ── Embeddings ────────────────────────────────
+sentence-transformers
+
+# ── Vector Databases ──────────────────────────
+chromadb
+faiss-cpu
+
+# ── Document Loaders ──────────────────────────
+pypdf
+docx2txt
+unstructured
+
+# ── Web Loader ────────────────────────────────
+beautifulsoup4
+requests
+
+# ── API Server (optional) ─────────────────────
+flask
+flask-cors
+fastapi
+uvicorn
+
+# ── Utilities ─────────────────────────────────
+python-dotenv
+pydantic
+tiktoken
